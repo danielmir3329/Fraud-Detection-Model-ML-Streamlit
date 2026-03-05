@@ -32,6 +32,3 @@ Expected key columns used in the notebook include:
 - `isFraud` (target)
 - `isFlaggedFraud`
 
-✅ **Tip:** Put your CSV in a `data/` folder and update the path in the notebook/app:
-```python
-df = pd.read_csv("data/AIML Dataset.csv")
