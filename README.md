@@ -3,7 +3,7 @@
 A machine learning project that detects potentially fraudulent financial transactions using a full workflow: **EDA → feature engineering → preprocessing pipeline → model training/evaluation → model export → Streamlit app for predictions**.
 
 ---
-
+ 
 ##  What this project does
 
 - Explores a transaction dataset to understand fraud patterns (EDA + charts)
